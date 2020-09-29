@@ -3,9 +3,9 @@ This project implements the system to generate a list of customers who should be
 We want to invite only those customers who are within the given distance limit.
 
 Given the input file with customers, location of the office, and the distance limit, this program processes the
-input file line-by-line and outputs all eligible customers
-who are within the given distance limit, sorted by the User ID (in ascending order).
+input file line-by-line and outputs all eligible customers who are within the given distance limit, sorted by the User ID (in ascending order).
 
+The GPS coordinates of the office are `(53.339428, -6.257664)` and the distance limit is `100km`.
 
 
 ## Input format
